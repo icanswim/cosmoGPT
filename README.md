@@ -1,2 +1,2 @@
 # cosmoGPT
-An exploration of Generative Pre Trained (GPT) language modeling.
+An exploration of language modeling.
