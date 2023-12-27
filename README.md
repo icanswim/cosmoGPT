@@ -1,2 +1,2 @@
-# cosmoGPT
-An exploration of language modeling.
+# huggingMo
+An exploration of huggingface.
