@@ -35,6 +35,7 @@ curl=8.4.0=hdbd6064_1
 debugpy=1.6.7=py311h6a678d5_0
 decorator=5.1.1=pyhd3eb1b0_0
 defusedxml=0.7.1=pyhd3eb1b0_0
+diffusers=0.25.0=pypi_0
 einops=0.7.0=pypi_0
 executing=0.8.3=pyhd3eb1b0_0
 expat=2.5.0=h6a678d5_0
@@ -52,6 +53,7 @@ gnutls=3.6.15=he1e5248_0
 huggingface-hub=0.19.4=pypi_0
 icu=73.1=h6a678d5_0
 idna=3.4=py311h06a4308_0
+importlib-metadata=7.0.1=pypi_0
 intel-openmp=2023.1.0=hdb19cb5_46306
 ipykernel=6.25.0=py311h92b7b1e_0
 ipython=8.15.0=py311h06a4308_0
@@ -200,5 +202,6 @@ wheel=0.41.2=py311h06a4308_0
 xz=5.4.5=h5eee18b_0
 yaml=0.2.5=h7b6447c_0
 zeromq=4.3.4=h2531618_0
+zipp=3.17.0=pypi_0
 zlib=1.2.13=h5eee18b_0
 zstd=1.5.5=hc292b87_0
