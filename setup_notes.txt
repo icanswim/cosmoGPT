@@ -1,0 +1,14 @@
+conda create --name pytorch python=3.11.5
+conda activate pytorch
+conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+conda install jupyterlab ipywidgets
+conda install git
+conda deactivate
+
+conda create --name hugging --clone pytorch
+conda activate hugging
+pip install transformers
+pip install accelerate
+pip install diffusers
+pip install einops
+
